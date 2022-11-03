@@ -3,5 +3,4 @@ python src/main.py
 
 Il faut installer pygame, pytmx, pyscroll pour que ça fonctionne
 
-Alexandre s'occupe de src/player.py
-Erwan s'occupe de src/game.py
+Alexandre s'occupe de src/player.py et Erwan s'occupe de src/game.py
